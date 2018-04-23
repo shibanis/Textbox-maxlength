@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\directives",
+    "\\src\\directives\\overslide",
+    "\\src\\pages",
+    "\\src\\pages\\home",
+    "\\src\\theme"
+  ],
+  "SelectedNode": "\\src\\directives\\overslide\\overslide.ts",
+  "PreviewInSolutionExplorer": false
+}

@@ -6,11 +6,13 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
+import { OverslideDirective } from '../directives/overslide/overslide'
 
 @NgModule({
   declarations: [
     MyApp,
-    HomePage
+    HomePage,
+    OverslideDirective
   ],
   imports: [
     BrowserModule,
